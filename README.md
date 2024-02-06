@@ -1,6 +1,8 @@
 ## DEC & SPS TO USD CONVERTER
 
-![Programa](program-window.png)
+It's a program to convert the value of the DEC & SPS token to USD and vice versa, using the conversion price or rate provided by the Splinterlands API.
+
+![program-window](program-window.png)
 
 # Instructions for Windows
 - Download the 64 Bit version of [name.zip]()
