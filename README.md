@@ -5,9 +5,9 @@ It's a program to convert the value of the DEC & SPS token to USD and vice versa
 ![program-window](program-window.png)
 
 # Instructions for Windows
-- Download the 64 Bit version of [name.zip]()
+- Download the 64 Bit version of [DEC-&-SPS-2-USD.zip](https://github.com/AntonioJG92/Conversor-DEC-SPS-2-USD-APIS/raw/main/DEC-&-SPS-2-USD-64BIT.zip)
 - Download the 32 Bit version of [DEC-&-SPS-2-USD.zip](https://github.com/AntonioJG92/Conversor-DEC-SPS-2-USD-APIS/raw/main/DEC-&-SPS-2-USD-32BIT.zip)
-- Unzip the file NAME.zip wherever you want.
+- Unzip the file DEC-&-SPS-2-USD.zip wherever you want.
 - Run the exe file.
 
 # Source code
